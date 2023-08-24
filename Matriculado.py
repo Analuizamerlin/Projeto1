@@ -4,7 +4,7 @@ with open('./nomes.txt','r') as reader:
 k = 0
 i = 0
 
-nome = input("Insira oome completo: ")
+nome = input("Insira nome completo: ")
 nome = nome.lower()
 
 for line in arquivo:
